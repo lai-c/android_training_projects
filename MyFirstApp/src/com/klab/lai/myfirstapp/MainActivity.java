@@ -10,7 +10,7 @@ import android.widget.EditText;
 
 public class MainActivity extends Activity {
 	private static final String MY_TAG = "Lance";
-	private static final String EXTRA_MESSAGE = "com.klab.lai.myfirstapp.MESSAGE";
+	public static final String EXTRA_MESSAGE = "com.klab.lai.myfirstapp.MESSAGE";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

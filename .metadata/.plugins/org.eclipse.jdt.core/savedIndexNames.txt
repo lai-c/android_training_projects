@@ -1,4 +1,0 @@
-INDEX VERSION 1.126+/home/lai-c/laiconglin/android_training_projects/.metadata/.plugins/org.eclipse.jdt.core
-2866552604.index
-2914978717.index
-3327537400.index
