@@ -1,4 +1,6 @@
-package com.klab.lai.mysecondapp;
+package com.klab.lai.activitylifecycle;
+
+import com.klab.lai.mysecondapp.R;
 
 import android.os.Bundle;
 import android.app.Activity;
